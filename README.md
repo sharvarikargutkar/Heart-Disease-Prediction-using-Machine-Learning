@@ -7,8 +7,6 @@ This project focuses on predicting heart disease using machine learning classifi
 ---
 ## Google Colab Notebook
 
-Add your shared Colab notebook link here:
-
 Link (https://colab.research.google.com/drive/1eTk60jE3Xv5eMMp5MNdaoa9-0iwqBKc0?usp=sharing)
 
 ## Dataset Source
